@@ -12,8 +12,9 @@ Location, Industry, Total Laid Off,etc. The goal of this project was to clean th
 - SQL (MySQL)
 - Excel (for preliminary data checks)
 
-
-
+Data Source: 
+The dataset used in this project is collected from https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Portfolio%20Project%20-%20EDA.sql
+All rights belong to the original creator, and the data has been used for educational and analytical purposes only.
 
 
 
